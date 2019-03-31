@@ -5,11 +5,12 @@
 『Unity 入門』に掲載されているサンプルゲームを元にBGMやSEといったオリジナル要素を追加しました。
 
 ## ゲーム画面
-![起動画面](images/game1)
 
-![プレイ画面](images/game2)
+<img src="images/game1.png" width=50%>
 
-![結果画面](images/game3)
+<img src="images/game2.png" width=50%>
+
+<img src="images/game3.png" width=50%>
 
 
 ## 起動方法  
